@@ -1,8 +1,8 @@
 
-Hola! Mi nombre es Sebastián Carrasco Bravo y soy ingeniero civil industrial, actualmente me encuentro cursando un magister en ciencias de datos para la innovación en la Universidad de Concepción, Chile.
+Hola! Mi nombre es Sebastián Carrasco Bravo y soy ingeniero civil industrial 🏭, actualmente me encuentro cursando un magister en ciencias de datos para la innovación en la Universidad de Concepción, Chile 🔴⬜🔷.
 Actualmente me desempeño como analista de control de gestión en entel, donde mis fortalezas son el análisis de datos para la toma de decisiones y la automatización de procesos.
 
-# Clasificación de Imágenes (Perros y Gatos)
+# Clasificación de Imágenes (Perros y Gatos) 🐕🐈‍⬛
 
 Este proyecto se presenta como parte de un trabajo de clasificación de imágenes de perros y gatos utilizando Python y TensorFlow. Este trabajo fue hecho en base a tutoriales de internet, debido a que se basa en un proyecto personal y de autoaprendizaje, dirigido especialmente a un ramo del master.
 El proyecto se basa en un dataset de imagenes de perros y gatos, en donde se utilizan redes neuronales para entrenar distintos modelos densos y convolutivos.
