@@ -6,7 +6,7 @@ Actualmente me desempeño como analista de control de gestión en entel, donde m
 
 Este proyecto se presenta como parte de un trabajo de clasificación de imágenes de perros y gatos utilizando Python y TensorFlow. Este trabajo fue hecho en base a tutoriales de internet, debido a que se basa en un proyecto personal y de autoaprendizaje, dirigido especialmente a un ramo del master.
 El proyecto se basa en un dataset de imagenes de perros y gatos, en donde se utilizan redes neuronales para entrenar distintos modelos densos y convolutivos.
-## ¿En que consisten estos modelos?
+## ¿En que consisten estos modelos? 🧠
 
 # Modelo Denso (Red Neuronal Totalmente Conectada):
 
@@ -21,9 +21,9 @@ Las CNNs son ampliamente utilizadas en tareas de visión por computadora, como c
 Las capas convolucionales se combinan típicamente con capas de agrupación (pooling) para reducir la dimensionalidad y capas completamente conectadas al final de la red para tomar decisiones basadas en las características extraídas por las capas convolucionales.
 Las CNNs suelen requerir menos parámetros entrenables que las redes densas, lo que las hace más eficientes en términos de memoria y tiempo de entrenamiento.
 
-## Cómo Utilizarlo
+## Cómo Utilizarlo 💡
 
-1. Descargar el repositorio: Copia o descarga el repositorio en tu PC.
+1. Descargar el repositorio: Copia o descarga el repositorio en tu PC 💻.
 
 2. Iniciar un servidor local: Este proyecto utiliza TensorFlow.js para cargar el modelo de clasificación. Para ejecutarlo, necesitas un servidor local. Puedes hacerlo de la siguiente manera:
 
