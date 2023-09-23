@@ -6,15 +6,15 @@ Actualmente me desempeño como analista de control de gestión en entel, donde m
 
 Este proyecto se presenta como parte de un trabajo de clasificación de imágenes de perros y gatos utilizando Python y TensorFlow. Este trabajo fue hecho en base a tutoriales de internet, debido a que se basa en un proyecto personal y de autoaprendizaje, dirigido especialmente a un ramo del master.
 El proyecto se basa en un dataset de imagenes de perros y gatos, en donde se utilizan redes neuronales para entrenar distintos modelos densos y convolutivos.
-## ¿En que consisten estos modelos? 🧠
+# ¿En que consisten estos modelos? 🧠
 
-# Modelo Denso (Red Neuronal Totalmente Conectada):
+## Modelo Denso (Red Neuronal Totalmente Conectada):
 
 En un modelo denso, todas las neuronas de una capa están conectadas a todas las neuronas de la capa siguiente. Esto significa que cada entrada afecta a todas las neuronas de la siguiente capa, lo que resulta en un gran número de parámetros entrenables en la red.
 Los modelos densos son apropiados para tareas en las que la relación entre las entradas y las salidas es compleja y no se pueden asumir patrones locales. Por ejemplo, en problemas de procesamiento de lenguaje natural, donde las palabras en una oración pueden influir en el significado de otras palabras en la misma oración.
 Estos modelos son conocidos por su capacidad de aprender representaciones complejas de datos, pero también pueden requerir un gran conjunto de datos y tiempo de entrenamiento para converger.
 
-# Modelo Convolutivo (Red Neuronal Convolucional o CNN):
+## Modelo Convolutivo (Red Neuronal Convolucional o CNN):
 
 Un modelo convolutivo utiliza capas convolucionales que aplican operaciones de convolución a las entradas. Estas capas son efectivas para identificar patrones locales y características en los datos, como bordes, texturas y formas.
 Las CNNs son ampliamente utilizadas en tareas de visión por computadora, como clasificación de imágenes, detección de objetos y segmentación semántica, debido a su capacidad para capturar características jerárquicas en las imágenes.
