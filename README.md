@@ -4,6 +4,8 @@ Actualmente me desempeño como analista de control de gestión en entel, donde m
 
 # Clasificación de Imágenes (Perros y Gatos) 🐕🐈‍⬛
 
+Enlace al video: https://www.youtube.com/watch?v=HcplPbl4fP4
+
 Este proyecto se presenta como parte de un trabajo de clasificación de imágenes de perros y gatos utilizando Python y TensorFlow. Este trabajo fue hecho en base a tutoriales de internet, debido a que se basa en un proyecto personal y de autoaprendizaje, dirigido especialmente a un ramo del master.
 El proyecto se basa en un dataset de imagenes de perros y gatos, en donde se utilizan redes neuronales para entrenar distintos modelos densos y convolutivos.
 # ¿En que consisten estos modelos? 🧠
