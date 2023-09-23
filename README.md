@@ -32,7 +32,7 @@ Las CNNs suelen requerir menos parámetros entrenables que las redes densas, lo 
    - Ejecuta el siguiente comando: `python -m http.server 8000`
    - Abre un navegador web y accede a `http://localhost:8000`.
 
-## Uso en Dispositivos Móviles
+## Uso en Dispositivos Móviles 📱
 
 Si deseas utilizar la aplicación en tu dispositivo móvil, ten en cuenta que la cámara del dispositivo se utiliza para la clasificación de imágenes. Para habilitar el uso de la cámara en dispositivos móviles, sigue estos pasos:
 
@@ -46,7 +46,7 @@ Asegúrate de mantener activos tanto el servidor Python como el túnel de ngrok.
 
 En la terminal de ngrok, encontrarás un enlace HTTPS. Abre un navegador en tu dispositivo móvil y accede a este enlace. Puedes usar la cámara para capturar imágenes de perros o gatos, y la aplicación proporcionará predicciones.
 
-## Notas Importantes
+## Notas Importantes 📝
 
 - Este proyecto es una implementación básica con fines educativos y de autoaprendizaje y no garantiza una clasificación perfecta.
 
